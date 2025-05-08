@@ -31,4 +31,8 @@ The GlobalMart dashboard presents a detailed analysis of sales performance acros
 - Clean and user-friendly layout for stakeholder reporting
 
 ## Project Structure
+Brainwave_Matrix_Intern/
+├── Sales_Data_Commercial_Store.pbix     ← Main Power BI Dashboard File
+├── screenshots                          ← Images of dashboard visuals
+├── README.md                            ← This documentation
 
